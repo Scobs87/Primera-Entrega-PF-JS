@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  padding: 10rem;
+  text-align: center;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+}
